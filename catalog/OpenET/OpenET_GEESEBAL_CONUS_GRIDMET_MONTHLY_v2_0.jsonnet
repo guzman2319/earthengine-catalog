@@ -63,7 +63,6 @@ local self_ee_catalog_url = ee_const.ee_catalog_url + basename;
     'landsat_derived',
     'monthly',
     'water',
-    'geesebal'
   ],
   providers: [
     ee.producer_provider('OpenET, Inc.', 'https://openetdata.org/'),
